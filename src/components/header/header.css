@@ -1,0 +1,21 @@
+.header {
+  background-color: black;
+  height: 150px;
+  color: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title{
+    margin: 15px 0;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.subtitle{
+    text-transform: capitalize;
+    font-size: 15px;
+}
