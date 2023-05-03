@@ -40,7 +40,7 @@ const Characters = [
     created: "2017-11-04T19:22:43.665Z",
   },
   {
-    id: 6,
+    id: 5,
     name: "Abadango Cluster Princess",
     status: "Alive",
     species: "Human",
@@ -50,7 +50,7 @@ const Characters = [
     created: "2017-11-04T19:50:28.250Z",
   },
   {
-    id: 13,
+    id: 6,
     name: "Alien Googah",
     status: "Dead",
     species: "Alien",
